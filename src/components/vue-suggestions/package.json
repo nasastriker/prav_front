@@ -1,0 +1,52 @@
+{
+  "_from": "vue-suggestions",
+  "_id": "vue-suggestions@1.4.0",
+  "_inBundle": false,
+  "_integrity": "sha512-toahs5yfIun94PDetWkX+q94c9u2VQmL//qB+H/WDro8KUG2jT6WH1tMRpYj6MoS8rfDgzA+0hUbzR9RTILRVw==",
+  "_location": "/vue-suggestions",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "vue-suggestions",
+    "name": "vue-suggestions",
+    "escapedName": "vue-suggestions",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/vue-suggestions/-/vue-suggestions-1.4.0.tgz",
+  "_shasum": "2a267a4d83b68040280f6d2ff9d4b430cb66cfd5",
+  "_spec": "vue-suggestions",
+  "_where": "C:\\wamp\\www\\prav.local",
+  "author": {
+    "name": "Vladimir Evseev"
+  },
+  "bugs": {
+    "url": "https://github.com/evseevdev/vue-suggestions/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "suggestions-jquery": "^17.5.0"
+  },
+  "deprecated": false,
+  "description": "Vue компонент для плагина сервиса Подсказок DaData.ru",
+  "homepage": "https://github.com/evseevdev/vue-suggestions#readme",
+  "keywords": [
+    "suggestions",
+    "vue.js"
+  ],
+  "license": "MIT",
+  "main": "vue-suggestions.vue",
+  "name": "vue-suggestions",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evseevdev/vue-suggestions.git"
+  },
+  "version": "1.4.0"
+}

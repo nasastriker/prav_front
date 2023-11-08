@@ -1,0 +1,419 @@
+{
+
+    "users.index": "api\/users",
+    "users.update": "api\/users",
+    "usersDebtor.index": "api\/usersDebtor",
+    "usersDebtor.update": "api\/usersDebtor",
+    "sudAct.index": "api\/sudAct",
+    "sudAct.update": "api\/sudAct",
+    "pochta.index": "api\/pochta",
+    "pochta.update": "api\/pochta",
+    "questGu.index": "api\/questGu",
+    "questGu.update": "api\/questGu",
+    "taskTemp.index": "api\/taskTemp",
+    "taskTemp.update": "api\/taskTemp",
+    "returnBank.index": "api\/returnBank",
+    "returnBank.update": "api\/returnBank",
+    "userTask.index": "api\/userTask",
+    "userTask.update": "api\/userTask",
+    "userUved.index": "api\/userUved",
+    "userUved.update": "api\/userUved",
+    "sms.index": "api\/sms",
+    "sms.update": "api\/sms",
+    "shedStad.index": "api\/shedStad",
+    "shedStad.update": "api\/shedStad",
+    "bankrotHistory.index": "api\/bankrotHistory",
+    "bankrotHistory.update": "api\/bankrotHistory",
+    "settingFns.index": "api\/settingFns",
+    "settingFns.update": "api\/settingFns",
+
+    "ratecb.index": "api\/rateCB",
+    "ratecb.update": "api\/rateCB",
+
+    "judicial.index": "api\/judicial",
+    "taskJobsStatus.update": "api\/taskJobsStatus",
+    "taskJobsStatus.index": "api\/taskJobsStatus",
+    "requestPP.index":"api\/requestPP",
+    "requestPP.update":"api\/requestPP",
+    "organizationTask.index":"api\/organizationTask",
+    "organizationTask.update":"api\/organizationTask",
+
+    "bki_credo.index":"api\/bki_credo",
+    "bki_credo.update":"api\/bki_credo",
+    "bki_scoring.index":"api\/bki_scoring",
+    "bki_scoring.update":"api\/bki_scoring",
+    "settingStad.index":"api\/settingStad",
+    "settingStad.update":"api\/settingStad",
+
+    "bkiDebtor.index":"api\/bkiDebtor",
+    "bkiDebtor.update":"api\/bkiDebtor",
+    "bki_reestr.index":"api\/bki_reestr",
+    "bki_reestr.update":"api\/bki_reestr",
+    "calculateVars.index":"api\/calculateVars",
+    "calculateVars.update":"api\/calculateVars",
+    "calculateList.index":"api\/calculateList",
+    "calculateList.update":"api\/calculateList",
+    "controlStatus.index":"api\/controlStatus",
+    "controlStatus.update":"api\/controlStatus",
+    "reestrDelete.index":"api\/reestrDelete",
+    "reestrDelete.update":"api\/reestrDelete",
+    "taskConditions.index":"api\/taskConditions",
+    "taskConditions.update":"api\/taskConditions",
+    "userAccsessRecover.index":"api\/userAccsessRecover",
+    "userAccsessRecover.update":"api\/userAccsessRecover",
+    "userAccsessOrgn.index":"api\/userAccsessOrgn",
+    "userAccsessOrgn.update":"api\/userAccsessOrgn",
+    "judicial.update": "api\/judicial",
+    "jurisdiction.index": "api\/jurisdiction",
+    "jurisdiction.update": "api\/jurisdiction",
+    "debtorCreditDocument.index": "api\/debtorCreditDocument",
+    "debtorCreditDocument.update": "api\/debtorCreditDocument",
+    "zalog.index": "api\/zalog",
+    "zalog.update": "api\/zalog",
+    "correspondence.index":"api\/correspondence",
+    "correspondence.update":"api\/correspondence",
+    "pochtaSettings.index":"api\/pochtaSettings",
+    "pochtaSettings.update":"api\/pochtaSettings",
+    "addressException.index":"api\/addressException",
+    "addressException.update":"api\/addressException",
+    "recoverersOther.index":"api\/recoverersOther",
+    "recoverersOther.update":"api\/recoverersOther",
+    "paymentFilterTask.index":"api\/paymentFilterTast",
+    "paymentFilterTask.update":"api\/paymentFilterTast",
+
+    "development.index": "api\/development",
+    "development.update": "api\/development",
+    "dadata.index": "api\/dadata",
+    "dadata.update": "api\/dadata",
+    "sudGas.index": "api\/sudGas",
+    "sudGas.update": "api\/sudGas",
+
+    "fsspOtdelsAddress.index": "api\/fsspOtdelsAddress",
+    "fsspOtdelsAddress.update": "api\/fsspOtdelsAddress",
+    "updateData.index": "api\/updateData",
+    "updateData.update": "api\/updateData",
+    "debtors.index": "api\/debtors",
+    "debtors.update": "api\/debtors",
+    "bank.index": "api\/bank",
+    "bank.update": "api\/bank",
+    "bankrot.index": "api\/bankrot",
+    "bankrot.update": "api\/bankrot",
+    "gospohlinaReq.index": "api\/gospohlinaReq",
+    "gospohlinaReq.update": "api\/gospohlinaReq",
+    "SudPpReestr.index": "api\/SudPpReestr",
+    "SudPpReestr.update": "api\/SudPpReestr",
+
+    "recoverTask.index": "api\/recoverTask",
+    "recoverTask.update": "api\/recoverTask",
+    "func.index": "api\/func",
+    "func.update": "api\/func",
+    "funcshedule.index": "api\/funcshedule",
+    "funcshedule.update": "api\/funcshedule",
+    "reportShed.index": "api\/reportShed",
+    "reportShed.update": "api\/reportShed",
+    "strategyPeremen.index": "api\/strategyPeremen",
+    "strategyPeremen.update": "api\/strategyPeremen",
+
+
+    "strategy.index": "api\/strategy",
+    "strategy.update": "api\/strategy",
+    "server.index": "api\/server",
+    "server.update": "api\/server",
+    "systemTrash.index": "api\/systemTrash",
+    "systemTrash.update": "api\/systemTrash",
+
+    "reestrPochta.index": "api\/reestrPochta",
+    "reestrPochta.update": "api\/reestrPochta",
+    "importTask.index": "api\/importTask",
+    "importTask.update": "api\/importTask",
+    "helpPage.index": "api\/helpPage",
+    "helpPage.update": "api\/helpPage",
+    "workActions.index": "api\/workActions",
+    "workActions.update": "api\/workActions",
+    "crmSections.index": "api\/crmSections",
+    "crmSections.update": "api\/crmSections",
+    "sudPp.index": "api\/sudPp",
+    "sudPp.update": "api\/sudPp",
+    "sudErrors.index": "api\/sudErrors",
+    "sudErrors.update": "api\/sudErrors",
+
+    "recoverDocument.index": "api\/recoverDocument",
+    "recoverDocument.update": "api\/recoverDocument",
+    "orgnDocument.index": "api\/orgnDocument",
+    "orgnDocument.update": "api\/orgnDocument",
+    "importFromFolder.index": "api\/importFromFolder",
+    "importFromFolder.update": "api\/importFromFolder",
+
+    "pfr.index": "api\/pfr",
+    "pfr.update": "api\/pfr",
+    "taskUser.index": "api\/taskUser",
+    "taskUser.update": "api\/taskUser",
+    "faq.index": "api\/faq",
+    "faq.update": "api\/faq",
+    "otp.index": "api\/otp",
+    "otp.update": "api\/otp",
+    "fssp.index": "api\/fssp",
+    "fssp.update": "api\/fssp",
+    "status.index": "api\/status",
+    "status.update": "api\/status",
+    "judicialAct.index": "api\/judicialAct",
+    "judicialAct.update": "api\/judicialAct",
+    "debtorCreditComments.index": "api\/debtorCreditComments",
+    "debtorCreditComments.update": "api\/debtorCreditComments",
+    "organizationVar.index": "api\/organizationVar",
+    "organizationVar.update": "api\/organizationVar",
+
+    "judicialArea.index": "api\/judicialArea",
+    "judicialArea.update": "api\/judicialArea",
+    "arbitrArea.index": "api\/arbitrArea",
+    "arbitrArea.update": "api\/arbitrArea",
+    "taskUserStatus.index": "api\/taskUserStatus",
+    "taskUserStatus.update": "api\/taskUserStatus",
+
+    "statistics.index": "api\/statistics",
+    "statistics.update": "api\/statistics",
+    "check.index": "api\/check",
+    "check.update": "api\/check",
+    "taskVoice.index": "api\/taskVoice",
+    "taskVoice.update": "api\/taskVoice",
+    "taskFssp.index": "api\/taskFssp",
+    "taskFssp.update": "api\/taskFssp",
+    "taskBankrot.index": "api\/taskBankrot",
+    "taskBankrot.update": "api\/taskBankrot",
+    "email.index": "api\/email",
+    "email.update": "api\/email",
+    "sudOrder.index": "api\/sudOrder",
+    "sudOrder.update": "api\/sudOrder",
+    "uploadFiles.index": "api\/uploadFiles",
+    "uploadFiles.update": "api\/uploadFiles",
+    "sudPrikaz.index": "api\/sudPrikaz",
+    "sudPrikaz.update": "api\/sudPrikaz",
+    "fileWork.index": "api\/fileWork",
+    "fileWork.update": "api\/fileWork",
+    "sudOrderStatus.index": "api\/sudOrderStatus",
+    "sudOrderStatus.update": "api\/sudOrderStatus",
+    "archPfr.index": "api\/archPfr",
+    "archPfr.update": "api\/archPfr",
+    "archFsspReturnSa.index": "api\/archFsspReturnSa",
+    "archFsspReturnSa.update": "api\/archFsspReturnSa",
+
+    "fns.index": "api\/fns",
+    "fns.update": "api\/fns",
+
+    "pole.index": "api\/pole",
+    "pole.update": "api\/pole",
+    "reports.index": "api\/reports",
+    "reports.update": "api\/reports",
+
+
+    "reestrImport.index": "api\/reestrImport",
+    "reestrImport.update": "api\/reestrImport",
+
+
+    "reestrPayment.index": "api\/reestrPayment",
+    "reestrPayment.update": "api\/reestrPayment",
+
+    "reestrPaymentSo.index": "api\/reestrPaymentSo",
+    "reestrPaymentSo.update": "api\/reestrPaymentSo",
+
+
+    "fnsWork.index": "api\/fnsWork",
+    "fnsWork.update": "api\/fnsWork",
+
+
+    "archFssp.index": "api\/archFssp",
+    "archFssp.update": "api\/archFssp",
+
+
+    "archBankSa.index": "api\/archBankSa",
+    "archBankSa.update": "api\/archBankSa",
+    "archBankOtherSa.index": "api\/archBankOtherSa",
+    "archBankOtherSa.update": "api\/archBankOtherSa",
+
+    "archBankReturnSa.index": "api\/archBankReturnSa",
+    "archBankReturnSa.update": "api\/archBankReturnSa",
+
+    "archBank.index": "api\/archBank",
+    "archBank.update": "api\/archBank",
+
+
+    "historyShed.index": "api\/historyShed",
+    "historyShed.update": "api\/historyShed",
+
+
+    "historyReestr.index": "api\/historyReestr",
+    "historyReestr.update": "api\/historyReestr",
+
+    "historyBot.index": "api\/historyBot",
+    "historyBot.update": "api\/historyBot",
+
+    "historySoft.index": "api\/historySoft",
+    "historySoft.update": "api\/historySoft",
+
+
+
+    "ifns.index": "api\/ifns",
+    "ifns.update": "api\/ifns",
+
+
+    "logUser.index": "api\/logUser",
+
+
+    "logUser.update": "api\/logUser",
+
+    "sogl.index": "api\/sogl",
+    "sogl.update": "api\/sogl",
+
+    "archSud.index": "api\/archSud",
+    "archSud.update": "api\/archSud",
+
+    "archPp.index": "api\/archPp",
+    "archPp.update": "api\/archPp",
+
+    "archPpDownload.index": "api\/download\/archPp",
+    "archPpDownload.update": "api\/download\/archPp",
+
+
+    "archIsk.index": "api\/archIsk",
+    "archIsk.update": "api\/archIsk",
+
+
+
+    "reestrFunc.index": "api\/reestrFunc",
+    "reestrFunc.update": "api\/reestrFunc",
+
+
+    "find.index": "api\/find",
+    "find.update": "api\/find",
+
+
+
+
+    "shablonDocument.index": "api\/shablonDocument",
+    "shablonDocument.update": "api\/shablonDocument",
+
+    "reestrSetting.index": "api\/reestrSetting",
+    "reestrSetting.update": "api\/reestrSetting",
+
+
+    "task.index": "api\/task",
+    "task.update": "api\/task",
+
+
+    "reestr.index": "api\/reestr",
+    "reestr.update": "api\/reestr",
+    "system.index": "api\/system",
+    "system.update": "api\/system",
+    "debtorCredit.index": "api\/debtorCredit",
+    "debtorCredit.update": "api\/debtorCredit",
+    "notification.index": "api\/notification",
+    "notification.update": "api\/notification",
+    "setting.index": "api\/setting",
+    "setting.update": "api\/setting",
+
+    "asterisk.index": "api\/asterisk",
+    "asterisk.update": "api\/asterisk",
+
+    "debtorAll.index": "api\/debtorAll",
+    "debtorAll.update": "api\/debtorAll",
+
+    "jud.index": "api\/jud",
+
+    "jud.update": "api\/jud",
+
+    "debtorDosuds.index": "api\/debtorDosuds",
+    "debtorDosuds.update": "api\/debtorDosuds",
+
+    "templSoft.index": "api\/templSoft",
+    "templSoft.update": "api\/templSoft",
+
+    "credits.index": "api\/credits",
+    "credits.update": "api\/credits",
+
+
+
+    "creditStatus.index": "api\/creditStatus",
+    "creditStatus.update": "api\/creditStatus",
+
+
+    "debtorReestrs.index": "api\/debtorReestrs",
+    "debtorReestrs.update": "api\/debtorReestrs",
+
+    "debtorRefines.index": "api\/debtorRefines",
+    "debtorRefines.update": "api\/debtorRefines",
+
+    "cession.index": "api\/cession",
+    "cession.update": "api\/cession",
+    "ogrn.index": "api\/ogrnProcent",
+    "ogrn.update": "api\/ogrnProcent",
+
+
+    "phone.index": "api\/phone",
+    "phone.update": "api\/phone",
+
+
+
+
+    "siteDogovora.index": "api\/siteDogovora",
+    "siteDogovora.update": "api\/siteDogovora",
+
+
+    "requestUser.index": "api\/requestUser",
+    "requestUser.update": "api\/requestUser",
+
+    "document.index": "api\/document",
+    "document.update": "api\/document",
+
+    "organization.index": "api\/organization",
+    "organization.update": "api\/organization",
+
+
+    "log.index": "api\/log",
+    "log.update": "api\/log",
+
+    "chatbot.index": "api\/chatbot",
+    "chatbot.update": "api\/chatbot",
+
+    "payment.index": "api\/payment",
+    "payment.update": "api\/payment",
+
+    "selports.index": "api\/selPorts",
+    "selports.update": "api\/selPorts",
+
+    "paymentSo.index": "api\/paymentSo",
+    "paymentSo.update": "api\/paymentSo",
+    "paymentSoOne.index": "api\/paymentSoOne",
+    "paymentSoOne.update": "api\/paymentSoOne",
+    "requestStatus.index": "api\/requestStatus",
+    "requestStatus.update": "api\/requestStatus",
+
+    "dateControl.index": "api\/dateControl",
+    "dateControl.update": "api\/dateControl",
+    "statusControl.index": "api\/statusControl",
+    "statusControl.update": "api\/statusControl",
+    "inheritor.index": "api\/inheritor",
+    "inheritor.update": "api\/inheritor",
+    "sudWork.index": "api\/sudWork",
+    "sudWork.update": "api\/sudWork",
+    "minPension.index": "api\/minPension",
+    "minPension.update": "api\/minPension",
+    "fsspHodSends.index": "api\/fsspHodSends",
+    "fsspHodSends.update": "api\/fsspHodSends",
+    "unrecognizedFiles.index": "api\/unrecognizedFiles",
+    "unrecognizedFiles.update": "api\/unrecognizedFiles",
+    "endIpReasons.index": "api\/endIpReasons",
+    "endIpReasons.update": "api\/endIpReasons",
+    "fsspEpguSpecTypes.index": "api\/fsspEpguSpecTypes",
+    "fsspEpguSpecTypes.update": "api\/fsspEpguSpecTypes",
+    "fsspClaimSettings.index": "api\/fsspClaimSettings",
+    "fsspClaimSettings.update": "api\/fsspClaimSettings",
+    "fsspPostClaimSettings.index": "api\/fsspPostClaimSettings",
+    "fsspPostClaimSettings.update": "api\/fsspPostClaimSettings",
+    "autoTaskSettings.index": "api\/autoTaskSettings",
+    "autoTaskSettings.update": "api\/autoTaskSettings",
+
+    "recoverer.index": "api\/recoverer",
+    "recoverer.update": "api\/recoverer",
+    "auth.login":"api\/log\/login"
+
+}

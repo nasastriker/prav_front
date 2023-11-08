@@ -1,0 +1,28 @@
+<template>
+    <div>
+
+        <feather-icon icon="Edit3Icon" svgClasses="h-5 w-5 mr-4 hover:text-primary cursor-pointer" @click="editRecord" />
+
+    </div>
+</template>
+
+<script>
+    import Vue from 'vue'
+    import r from '../../../route';
+    import { mapActions,mapGetters } from 'vuex'
+    export default {
+        name: 'OpenLink',
+        methods: {
+            ...mapActions([
+
+
+
+            ]),
+            editRecord () {
+                this.$router.push(`/reestr_delete/`+this.params.value).catch(() => {})
+
+            },
+
+        }
+    }
+</script>
